@@ -1,32 +1,37 @@
 {
-	"name": "github-markdown-css",
-	"version": "4.0.0",
-	"description": "The minimal amount of CSS to replicate the GitHub Markdown style",
-	"license": "MIT",
-	"repository": "sindresorhus/github-markdown-css",
-	"funding": "https://github.com/sponsors/sindresorhus",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
-	},
-	"main": "github-markdown.css",
-	"scripts": {
-		"make": "github-markdown-css > github-markdown.css"
-	},
-	"files": [
-		"github-markdown.css"
-	],
-	"keywords": [
-		"browser",
-		"github",
-		"markdown",
-		"md",
-		"css",
-		"style",
-		"stylesheet"
-	],
-	"devDependencies": {
-		"generate-github-markdown-css": "^4.0.0"
-	}
+  "name": "duckling-markdown-css",
+  "version": "4.0.1",
+  "description": "The minimal amount of CSS to replicate the GitHub Markdown style",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:mrdrivingduck/github-markdown-css.git"
+  },
+  "author": {
+    "name": "mrdrivingduck",
+    "email": "mrdrivingduck@gmail.com",
+    "url": "https://mrdrivingduck.cn"
+  },
+  "main": "github-markdown-dark.css",
+  "files": [
+    "github-markdown.css",
+    "github-markdown-dark.css"
+  ],
+  "keywords": [
+    "browser",
+    "github",
+    "markdown",
+    "dark",
+    "md",
+    "css",
+    "style",
+    "stylesheet"
+  ],
+  "devDependencies": {
+    "generate-github-markdown-css": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/github-markdown-css/issues"
+  },
+  "homepage": "https://github.com/mrdrivingduck/github-markdown-css#readme"
 }
