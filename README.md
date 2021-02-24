@@ -1,14 +1,12 @@
 # github-markdown-dark-css
 
-Forked from [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) by Mr Dk.
-
-2019/07 Nanjing, Jiangsu, China
+Forked from [mrdrivingduck/github-markdown-css](https://github.com/mrdrivingduck/github-markdown-css).
 
 ---
 
 ## About
 
-Modified version based on the original repository, to build a **dark theme** for my blog.
+Modified version based of the [mrdrivingduck/github-markdown-css](https://github.com/mrdrivingduck/github-markdown-css) repository, to build a **dracula dark theme** for [c3er/mdview](https://github.com/c3er/mdview).
 
 ## Install
 
@@ -22,7 +20,7 @@ npm install --save duckling-markdown-css
 <!doctype html>
 <html>
   <head>
-    <link rel="stylesheet" href="github-markdown-dark.css">
+    <link rel="stylesheet" href="github-markdown-dracula.css">
   </head>
   <body>
     <article class="markdown-body-dark"></article>
