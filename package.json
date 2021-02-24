@@ -1,6 +1,6 @@
 {
   "name": "github-markdown-dracula-css",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "The minimal amount of CSS to replicate the GitHub Markdown style",
   "license": "MIT",
   "repository": {
@@ -12,10 +12,11 @@
     "email": "e@pastel.codes",
     "url": "https://pastel.codes"
   },
-  "main": "github-markdown-dark.css",
+  "main": "github-markdown-dracula.css",
   "files": [
     "github-markdown.css",
-    "github-markdown-dark.css"
+    "github-markdown-dark.css",
+    "github-markdown-dracula.css"
   ],
   "keywords": [
     "browser",
