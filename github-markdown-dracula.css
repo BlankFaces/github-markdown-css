@@ -721,7 +721,7 @@
   
   .markdown-body .highlight pre,
   .markdown-body pre {
-    background-color: #282828; /* 代码段背景 */
+    background-color: #22212C; /* 代码段背景 */
     border-radius: 3px;
     font-size: 85%;
     line-height: 1.45;
@@ -958,7 +958,7 @@
   .markdown-body .pl-12 {
     padding-left: 128px!important;
   }
-
+  
   /* Patch */
 
   html {
