@@ -1,16 +1,16 @@
 {
-  "name": "duckling-markdown-css",
+  "name": "github-markdown-dracula-css",
   "version": "4.0.1",
   "description": "The minimal amount of CSS to replicate the GitHub Markdown style",
   "license": "MIT",
   "repository": {
     "type" : "git",
-    "url" : "git@github.com:mrdrivingduck/github-markdown-css.git"
+    "url" : "git@github.com:BlankFaces/github-markdown-dracula-css.git"
   },
   "author": {
-    "name": "mrdrivingduck",
-    "email": "mrdrivingduck@gmail.com",
-    "url": "https://mrdrivingduck.cn"
+    "name": "E",
+    "email": "e@pastel.codes",
+    "url": "https://pastel.codes"
   },
   "main": "github-markdown-dark.css",
   "files": [
@@ -33,5 +33,5 @@
   "bugs": {
     "url": "https://github.com/sindresorhus/github-markdown-css/issues"
   },
-  "homepage": "https://github.com/mrdrivingduck/github-markdown-css#readme"
+  "homepage": "https://github.com/BlanFacesk/github-markdown-dracula-css#readme"
 }
