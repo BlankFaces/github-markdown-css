@@ -11,7 +11,7 @@ Modified version based of the [mrdrivingduck/github-markdown-css](https://github
 ## Install
 
 ```bash
-npm install --save duckling-markdown-css
+npm install --save github-markdown-dracula-css
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ npm install --save duckling-markdown-css
     <link rel="stylesheet" href="github-markdown-dracula.css">
   </head>
   <body>
-    <article class="markdown-body-dark"></article>
+    <article class="markdown-body"></article>
   </body>
 </html>
 ```
