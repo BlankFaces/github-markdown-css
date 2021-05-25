@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type" : "git",
-    "url" : "git@github.com:E5TR/github-markdown-dracula-css.git"
+    "url" : "git@github.com:aurora-dot/github-markdown-dracula-css.git"
   },
   "author": {
     "name": "E",
@@ -34,5 +34,5 @@
   "bugs": {
     "url": "https://github.com/sindresorhus/github-markdown-css/issues"
   },
-  "homepage": "https://github.com/E5TR/github-markdown-dracula-css#readme"
+  "homepage": "https://github.com/aurora-dot/github-markdown-dracula-css#readme"
 }
